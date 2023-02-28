@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/yp0jCJI](https://github.com/Hungruong/project1-hw/blob/master/Animals.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Animals.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Windows 11 
